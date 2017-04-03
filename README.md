@@ -141,9 +141,9 @@ H🔥T Deep Learning research papers
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
 - Lip Reading Sentences in the Wild [[arXiv](https://arxiv.org/abs/1611.05358)]
-
-Reinforcement Learning:
-
+ 
+Reinforcement Learning: 
+ 
 -Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
 - The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
