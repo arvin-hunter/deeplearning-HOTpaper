@@ -15,7 +15,7 @@ H🔥T Deep Learning research papers
 ### Regularization
 - Nitish Srivastava, et al. "Dropout- A Simple Way to Prevent Neural Networks from Overfitting", JMLR, 2014
 - Sergey Ioffe and Christian Szegedy "Batch Normalization- Accelerating Deep Network Training by Reducing Internal Covariate Shift, ArXiv, 2015
-
+ 
 ### Algorithms behind AlphaGo
 - David Silver et al. "Mastering the game of Go with deep neural networks and tree search", Nature, 2016
 
@@ -24,13 +24,13 @@ H🔥T Deep Learning research papers
 - Diederik Kingma and Jimmy Bam "ADAM: A Method For Stochastic Optimization", ICLR, 2015
 
 ### Restricted Boltzmann Machine
-- Geoffrey Hinton, "A Practical Guide to Training Restricted Boltzmann Machines", 2010
+- Geoffrey Hinton, "A Practical Guide to Training Restricted Boltzmann Machines", 2010 
 
 ### Semantic Segmentation
-- Jonathan Long et al. "Fully Convolutional Networks for Semantic Segmentation", CVPR, 2015
+- Jonathan Long et al. "Fully Convolutional Networks for Semantic Segmentation", CVPR, 2015 
 - Liang-Chieh Chen et al. "Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs", CVPR, 2015
-- Hyeonwoo Noh et al. "Learning Deconvolution Network for Semantic Segmentation", ICCV, 2015
-- Liang-Chieh Chen et al. "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs", ArXiv, 2016
+- Hyeonwoo Noh et al. "Learning Deconvolution Network for Semantic Segmentation", ICCV, 2015 
+- Liang-Chieh Chen et al. "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs", ArXiv, 2016 
 
 ### Weakly Supervised Localization
 - Maxime Oquab et al. "Is object localization for free? – Weakly-supervised learning with convolutional neural networks", CVPR, 2015
@@ -88,14 +88,14 @@ H🔥T Deep Learning research papers
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
-- FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
+- FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)] 
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
 
 
 #### 2017-02
 
 - The Shattered Gradients Problem: If resnets are the answer, then what is the question? [[arXiv](https://arxiv.org/abs/1702.08591)]
-- Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)]
+- Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)] 
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08892)]
 - Deep Voice: Real-time Neural Text-to-Speech [[arXiv](https://arxiv.org/abs/1702.07825)]
 - Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.06230)]
@@ -132,7 +132,7 @@ H🔥T Deep Learning research papers
 - [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
 - Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
 - Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
-- Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
+- Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)] 
 - Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
 - Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
@@ -159,7 +159,7 @@ Reinforcement Learning:
 - Tuning Recurrent Neural Networks with Reinforcement Learning [[OpenReview](https://arxiv.org/abs/1611.02796)]
 - RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.02779)]
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Hyq4yhile)]
-- Learning to Perform Physics Experiments via Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1nTpv9eg)]
+- Learning to Perform Physics Experiments via Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1nTpv9eg)] 
 - Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU [[OpenReview](http://openreview.net/forum?id=r1VGvBcxl)]
 - Learning to Compose Words into Sentences with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
@@ -262,7 +262,7 @@ Machine Translation & Dialog
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
 - Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
 - [Progressive Neural Networks](notes/progressive-nn.md) [[arXiv](http://arxiv.org/abs/1606.04671)]
-- Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
+- Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)]) 
 - Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](http://arxiv.org/abs/1606.03657)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.04164)]
@@ -413,9 +413,9 @@ Vision
 - Deep Speech 2: End-to-End Speech Recognition in English and Mandarin [[arXiv](http://arxiv.org/abs/1512.02595)]
 
 
-#### 2015-11
+#### 2015-11 
 
-NLP
+NLP 
 
 - [Deep Reinforcement Learning with a Natural Language Action Space](notes/drl-nlp-action.md) [[arXiv](https://arxiv.org/abs/1511.04636)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
@@ -524,7 +524,7 @@ General
 - [Neural Responding Machine for Short-Text Conversation](notes/neural-responding-machine.md) [[arXiv](http://arxiv.org/abs/1503.02364)]
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](notes/batch-normalization.md) [[arXiv](http://arxiv.org/abs/1502.03167)]
 
-
+ 
 #### 2015-02
 
 - [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
@@ -578,7 +578,7 @@ General
 
 #### 2014-03
 
-#### 2014-02
+#### 2014-02 
 
 #### 2014-01
 
