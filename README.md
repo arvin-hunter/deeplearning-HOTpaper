@@ -11,14 +11,14 @@ H🔥T Deep Learning research papers
 - Kaiming He, et al. "Deep Residual Learning for Image Recognition", CVPR, 2016
 - Andreas Veit, et al. "Residual Networks are Exponential Ensembles of Relatively Shallow Networks", ArXiv, 2016
 - Sergey Zagoruyko and Nikos Komodakis "Wide Residual Networks", ArXiv, 2016
-
+ 
 ### Regularization
 - Nitish Srivastava, et al. "Dropout- A Simple Way to Prevent Neural Networks from Overfitting", JMLR, 2014
 - Sergey Ioffe and Christian Szegedy "Batch Normalization- Accelerating Deep Network Training by Reducing Internal Covariate Shift, ArXiv, 2015
- 
+  
 ### Algorithms behind AlphaGo
 - David Silver et al. "Mastering the game of Go with deep neural networks and tree search", Nature, 2016
-
+ 
 ### Optimization Methods
 - Momentum, NAG, AdaGrad, AdaDelta, RMSprop, ADAM
 - Diederik Kingma and Jimmy Bam "ADAM: A Method For Stochastic Optimization", ICLR, 2015
@@ -221,14 +221,14 @@ Machine Translation & Dialog
 - Deep Neural Networks for YouTube Recommendations [[paper](https://research.google.com/pubs/pub45530.html)]
 
 #### 2016-08
-
+ 
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
 - Stacked Approximated Regression Machine: A Simple Deep Learning Approach [[arXiv](http://arxiv.org/abs/1608.04062)]
 - Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](http://arxiv.org/abs/1608.05343)]
 - WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia [[arXiv](https://arxiv.org/abs/1608.03542)]
 - Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
 - Residual Networks of Residual Networks: Multilevel Residual Networks [[arXiv](http://arxiv.org/abs/1608.02908)]
-- [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
+- [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)] 
 
 #### 2016-07
 
