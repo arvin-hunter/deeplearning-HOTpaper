@@ -12,21 +12,21 @@ H🔥T Deep Learning research papers
 - Andreas Veit, et al. "Residual Networks are Exponential Ensembles of Relatively Shallow Networks", ArXiv, 2016
 - Sergey Zagoruyko and Nikos Komodakis "Wide Residual Networks", ArXiv, 2016
  
-### Regularization
+### Regularization 
 - Nitish Srivastava, et al. "Dropout- A Simple Way to Prevent Neural Networks from Overfitting", JMLR, 2014
 - Sergey Ioffe and Christian Szegedy "Batch Normalization- Accelerating Deep Network Training by Reducing Internal Covariate Shift, ArXiv, 2015
   
-### Algorithms behind AlphaGo
+### Algorithms behind AlphaGo 
 - David Silver et al. "Mastering the game of Go with deep neural networks and tree search", Nature, 2016
  
-### Optimization Methods
+### Optimization Methods 
 - Momentum, NAG, AdaGrad, AdaDelta, RMSprop, ADAM
 - Diederik Kingma and Jimmy Bam "ADAM: A Method For Stochastic Optimization", ICLR, 2015
 
-### Restricted Boltzmann Machine
+### Restricted Boltzmann Machine 
 - Geoffrey Hinton, "A Practical Guide to Training Restricted Boltzmann Machines", 2010 
 
-### Semantic Segmentation
+### Semantic Segmentation 
 - Jonathan Long et al. "Fully Convolutional Networks for Semantic Segmentation", CVPR, 2015 
 - Liang-Chieh Chen et al. "Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs", CVPR, 2015
 - Hyeonwoo Noh et al. "Learning Deconvolution Network for Semantic Segmentation", ICCV, 2015 
