@@ -3,7 +3,7 @@ H🔥T Deep Learning research papers
 # Deep Learning Tutorial !!
 ### 44 Papers + TF implementations
 
-## Topics (papers)
+## Topics (papers) 
 ### Modern CNNs
 - Alex Krizhevsky, et al. "ImageNet Classification with Deep Convolutional Neural Networks", NIPS, 2012
 - Christian Szegedy, et al. "Going Deeper with Convolutions", CVPR, 2015
