@@ -12,7 +12,7 @@ H🔥T Deep Learning research papers
 - Andreas Veit, et al. "Residual Networks are Exponential Ensembles of Relatively Shallow Networks", ArXiv, 2016
 - Sergey Zagoruyko and Nikos Komodakis "Wide Residual Networks", ArXiv, 2016
  
-### Regularization 
+### Regularization  
 - Nitish Srivastava, et al. "Dropout- A Simple Way to Prevent Neural Networks from Overfitting", JMLR, 2014
 - Sergey Ioffe and Christian Szegedy "Batch Normalization- Accelerating Deep Network Training by Reducing Internal Covariate Shift, ArXiv, 2015
   
